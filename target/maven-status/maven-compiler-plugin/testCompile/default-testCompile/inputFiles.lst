@@ -1,0 +1,12 @@
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/pageObjects/AccountRegistrationPage.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/pageObjects/BasePage.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/pageObjects/HomePage.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/pageObjects/LoginPage.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/pageObjects/MyAccountPage.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/testBase/BaseClass.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/testCases/TC001_AccountRegistrationTest.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/testCases/TC002_LoginTest.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/testCases/TC003_LoginDDT.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/utilities/DataProviders.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/utilities/ExcelUtility.java
+/Users/madhavkharge/eclipse-workspace/SdetOpenCart/src/test/java/utilities/ExtentReportManager.java
